@@ -1,9 +1,11 @@
 # Surge Configuration File 
 
-
- URL: [http://www.crystone.me/down/surge/](http://www.crystone.me/down/surge/)
  
  Github: [https://github.com/crystoneme/surge.conf/](https://github.com/crystoneme/surge.conf/)
+
+Rules.conf: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/rules.conf)
+
+Module: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/SSEncrypt.module)
 
  These rules conf files are used for surge.app 1.0.0 Build 290 under iOS 9.0+
 
@@ -11,7 +13,7 @@
 
  It's for my own use purpose, consider some modification work to suitable for your own situation. 
 
- Created for myself (@crystone), based on other people's work, thanks for them:
+ Created for myself ([@crystone](https://twitter.com/crystone)), based on other people's work, thanks for them:
 
 * Gist from janlay: [https://gist.github.com/janlay/b57476c72a93b7e622a6](https://gist.github.com/janlay/b57476c72a93b7e622a6)
 
@@ -31,5 +33,10 @@
 
 * Gist from tufu9441: [https://gist.github.com/tufu9441/a0148457d0ccbd4469e7#file-surge-conf-L29](https://gist.github.com/tufu9441/a0148457d0ccbd4469e7#file-surge-conf-L29)
 
+* sofish: [http://proxy.sofi.sh/](http://proxy.sofi.sh/)
+
+* Surge's site: [https://surge.run](https://surge.run/)
+
+* Forum: [https://surge.tips](https://surge.tips/)
 
 
