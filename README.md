@@ -3,9 +3,10 @@
  
  Github: [https://github.com/crystoneme/surge.conf/](https://github.com/crystoneme/surge.conf/)
 
-Rules.conf: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/rules.conf)
+rules.conf: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/rules.conf)
 
-Module: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/SSEncrypt.module)
+server.conf: [download here](https://raw.githubusercontent.com/crystoneme/surge.conf/master/server.conf)
+
 
  These rules conf files are used for surge.app 1.0.0 Build 290 under iOS 9.0+
 
