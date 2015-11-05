@@ -1,6 +1,7 @@
 # Surge Configuration File 
 
- 
+Updated 2015/11/05 14:00 UTC+8
+
 github: 
  
 	https://github.com/crystoneme/surge.conf/
