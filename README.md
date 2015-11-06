@@ -2,6 +2,8 @@
 
 Updated 2015/11/05 14:00 UTC+8
 
+## **Download**
+
 github: 
  
 	https://github.com/crystoneme/surge.conf/
@@ -15,11 +17,13 @@ server.conf:
 	https://raw.githubusercontent.com/crystoneme/surge.conf/master/server.conf
 
 
- These rules conf files are used for surge.app 1.0.0 Build 290 under iOS 9.0+
+## **Description**
+
+ These rules conf files are tested for surge.app 1.1.0 Build 335 under iOS 9.0+
 
  The file rules.conf depend on file server.conf which defines your own proxy.
 
- It's for my own use purpose, consider some modification work to suitable for your own situation. 
+ It's for my own use purpose, maybe works not well in your network, so consider some modification work to suitable for your own situation. 
 
  Created for myself ([@crystone](https://twitter.com/crystone)), based on other people's work, thanks for them:
 
@@ -49,4 +53,14 @@ server.conf:
 
 * Forum: [https://surge.tips](https://surge.tips/)
 
+## **Usage**
 
+本surge.conf包含rules.conf和server.conf
+
+rules.conf为网络路由配置规则，不包含服务器信息
+
+server.conf为服务器信息，路由规则调用的是rules.conf。一个配置文件包含一个服务器配置，这样设计可以多服务器切换，而不用改代理规则。
+
+如下图所示：
+
+![](./surge ipad.png)
