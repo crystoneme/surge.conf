@@ -8,22 +8,31 @@ github:
  
 	https://github.com/crystoneme/surge.conf/
 
-rules.conf: 
+路由规则：rules.conf: 
 	
 	https://raw.githubusercontent.com/crystoneme/surge.conf/master/rules.conf
 
-server.conf: 
+服务器配置：server.conf: 
 
 	https://raw.githubusercontent.com/crystoneme/surge.conf/master/server.conf
 
+路由规则（安全）rules-safe.conf: 
+	
+	https://raw.githubusercontent.com/crystoneme/surge.conf/master/rules-safe.conf
+
+服务配置（安全）server-safe.conf: 
+
+	https://raw.githubusercontent.com/crystoneme/surge.conf/master/server-safe.conf
 
 ## **Description**
 
- These rules conf files are tested for surge.app 1.1.0 Build 335 under iOS 9.0+
+ This rules conf file is tested for surge.app 1.1.0 Build 335 under iOS 9.0+
 
  The file rules.conf depend on file server.conf which defines your own proxy.
 
  It's for my own use purpose, maybe works not well in your network, so consider some modification work to suitable for your own situation. 
+
+ **Add conf (rules-safe.conf and server-safe.conf) used for safe surfing consideration when you're connect to public wifi.**
 
  Created for myself ([@crystone](https://twitter.com/crystone)), based on other people's work, thanks for them:
 
